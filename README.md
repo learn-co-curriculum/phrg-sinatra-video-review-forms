@@ -33,8 +33,11 @@ You can also edit the lesson (find the paper and pen icon at the top right side 
 
 Do you think this video would be better if it were somewhere else in the curriculum? Raise an issue and tell us where you think it should go. 
 
-Any other comments or feedback you have? Raise an issue and let us know. 
+Any other comments or feedback you have? Raise an issue and let us know.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-video-review-forms/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-video-review-forms/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-video-review-forms'>Sinatra Video Review: Forms</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Sinatra Forms- Overview</p>
